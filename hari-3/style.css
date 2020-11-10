@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+.card {
+    font-weight: bold;
+    text-align: center;
+    background-color:rgb(150, 111, 187);
+    width: 130px;
+    height: 130px;
+    padding: 0px 10px;
+    margin: 10px auto;
+    border: 3px solid rgb(148, 56, 56);
+    border-radius: 10px;
+}
